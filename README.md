@@ -9,6 +9,8 @@
 
 TABLEAU VISUALIZATION LINK: https://public.tableau.com/app/profile/syed.afjal/viz/RossmannStoreSalesAnalysis/Dashboard1?publish=yes
 
+DATASET LINK: https://www.kaggle.com/datasets/pratyushakar/rossmann-store-sales
+
 💡 International Students Demographics Analysis
 
 ○ What is the percentage distribution of international students across different source types of funding?
