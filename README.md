@@ -1,15 +1,13 @@
 # Data-Analysis-Projects
 
-💡 Airline Loyalty Program Analysis:
+💡 Rossmann Store Sales Analysis
 
-○ How has the enrollment in the loyalty program evolved over the years?
-○ What demographic factors contribute to the highest total flights booked by customers within the loyalty program?
-○ How does the average number of flights, average salary, enrollment count, total accumulated points, and total redeemed points vary across different Loyalty Card categories?
-○ How does the Customer Lifetime Value (CLV) vary among loyalty program customers, and what Loyalty Card types are associated with above-average, below-average, or equal average CLV?
+○ How do annual sales trends vary over multiple years?
+○ What is the relationship between customer traffic and sales revenue across stores?
+○ How does the opening of nearby competitors affect Rossmann Store sales?
+○ Are there observable seasonal sales patterns, and how do they affect inventory and promotional strategies?
 
-TABLEAU VISUALIZATION LINK: https://public.tableau.com/app/profile/syed.afjal/viz/AirlineLoyaltyProgramDashboard/Dashboard1?publish=yes
-
-DATASET LINK: https://www.kaggle.com/datasets/agungpambudi/airline-loyalty-campaign-program-impact-on-flights
+TABLEAU VISUALIZATION LINK: https://public.tableau.com/app/profile/syed.afjal/viz/RossmannStoreSalesAnalysis/Dashboard1?publish=yes
 
 💡 International Students Demographics Analysis
 
@@ -20,3 +18,14 @@ DATASET LINK: https://www.kaggle.com/datasets/agungpambudi/airline-loyalty-campa
 TABLEAU VISUALIZATION LINK: https://public.tableau.com/app/profile/syed.afjal/viz/InternationalStudentsAcademicDemographics/Dashboard1?publish=yes
 
 DATASET LINK: https://www.kaggle.com/datasets/webdevbadger/international-student-demographics
+
+💡 Airline Loyalty Program Analysis:
+
+○ How has the enrollment in the loyalty program evolved over the years?
+○ What demographic factors contribute to the highest total flights booked by customers within the loyalty program?
+○ How does the average number of flights, average salary, enrollment count, total accumulated points, and total redeemed points vary across different Loyalty Card categories?
+○ How does the Customer Lifetime Value (CLV) vary among loyalty program customers, and what Loyalty Card types are associated with above-average, below-average, or equal average CLV?
+
+TABLEAU VISUALIZATION LINK: https://public.tableau.com/app/profile/syed.afjal/viz/AirlineLoyaltyProgramDashboard/Dashboard1?publish=yes
+
+DATASET LINK: https://www.kaggle.com/datasets/agungpambudi/airline-loyalty-campaign-program-impact-on-flights
